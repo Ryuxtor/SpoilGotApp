@@ -1,0 +1,17 @@
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\stub\StubDaoImpl.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\business\SpoilBusiness.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\api\SpoilController.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\api\model\GotCharacterFront.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\util\exception\TechnicalException.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\config\SpringFoxConfig.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\impl\H2SQLDaoImpl.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\SpoilGotApplication.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\FireBaseDao.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\model\GotCharacterBack.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\impl\GotCharacterRepository.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\config\JsonMapperConfiguration.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\model\Season.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\util\exception\FunctionalException.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\config\FireBaseAccount.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\dao\impl\FireBaseDaoImpl.java
+S:\Documents\GitHub\SpoilGotApp\src\main\java\com\fdorval\spoilgot\ServletInitializer.java
